@@ -1,11 +1,12 @@
 {
   "name": "fragments",
-  "private":"true",
+  "private": "true",
   "version": "1.0.0",
   "description": "First Git repo for Lab 1 of BTI525",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint \"./src/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,10 @@
   },
   "homepage": "https://github.com/Nish4125/fragments#readme",
   "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "eslint": "^9.35.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.3.0",
     "prettier": "3.6.2"
   }
 }

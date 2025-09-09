@@ -1,5 +1,6 @@
 {
   "name": "fragments",
+  "private":"true",
   "version": "1.0.0",
   "description": "First Git repo for Lab 1 of BTI525",
   "main": "index.js",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Nish4125/fragments/issues"
   },
-  "homepage": "https://github.com/Nish4125/fragments#readme"
+  "homepage": "https://github.com/Nish4125/fragments#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
 }

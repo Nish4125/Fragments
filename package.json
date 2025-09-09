@@ -1,0 +1,21 @@
+{
+  "name": "fragments",
+  "version": "1.0.0",
+  "description": "First Git repo for Lab 1 of BTI525",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nish4125/fragments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nish4125/fragments/issues"
+  },
+  "homepage": "https://github.com/Nish4125/fragments#readme"
+}
